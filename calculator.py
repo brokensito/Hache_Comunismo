@@ -1,6 +1,8 @@
+def mult(a, b):
+    return a * b
+
 def main():
-    # Codigo a 
+    # Codigo hace cosas
     return
+
 main()
-
-
