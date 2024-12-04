@@ -1,6 +1,9 @@
 def add(a,b):
     return a+b
 
+#hache comunista
+main()
+
 def mult(a, b):
     return a * b
 
