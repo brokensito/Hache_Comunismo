@@ -1,9 +1,11 @@
-def main():
-    # Codigo a 
-    return
-
 def add(a,b):
     return a+b
+
+def mult(a, b):
+    return a * b
+
+def main():
+    # Codigo hace cosas
+    return
+
 main()
-
-
