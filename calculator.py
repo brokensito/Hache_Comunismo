@@ -4,6 +4,8 @@ def main():
 
 def add(a,b):
     return a+b
+
+#hache comunista
 main()
 
 
